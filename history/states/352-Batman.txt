@@ -1,4 +1,4 @@
-
+﻿
 state={
 	id=352
 	name="STATE_352" # Van
@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = KUR
+		owner = TUR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
