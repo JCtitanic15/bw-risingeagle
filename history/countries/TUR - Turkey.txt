@@ -1,4 +1,4 @@
-capital = 49
+﻿capital = 49
 
 oob = "generic_2000"
 
@@ -88,8 +88,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Necmettin Erbakan"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = nationalist_ideology
-}
+	ideology = religious_traditionalist
 
 create_country_leader = {
 	name = "Bayezid III"
@@ -123,12 +122,12 @@ create_country_leader = {
 create_country_leader = {
 	name = "Alper Taş"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = syndicalism
+	ideology = communalism
 }
 
 create_country_leader = {
 	name = "Kemal Okuyan"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = marxist
+	ideology = leninist
 }
 

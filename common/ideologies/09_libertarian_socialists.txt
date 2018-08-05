@@ -1,4 +1,4 @@
-ideologies = {
+﻿ideologies = {
 
 	libertarian_socialist = {
 		
@@ -32,6 +32,9 @@ ideologies = {
 			}
 			
 			titoism = {
+			}
+
+			communalism = {
 			}
 			
 		}

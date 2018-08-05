@@ -1,4 +1,4 @@
-ideologies = {
+﻿ideologies = {
 
 	ultranationalist = {
 		
@@ -16,7 +16,10 @@ ideologies = {
 			rexist = {				
 			}
 			
-			national_boleshevk= {				
+			national_bolshevik= {				
+			}
+
+			religious_fanaticism = {	
 			}
 			
 		}

@@ -1,4 +1,4 @@
-ideologies = {
+﻿ideologies = {
 
 	nationalist = {
 		
@@ -14,6 +14,9 @@ ideologies = {
 			}
 			
 			authoritarian_democracy = {
+			}
+
+			religious_traditionalist = {
 			}
 
 		}
