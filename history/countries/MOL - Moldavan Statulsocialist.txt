@@ -126,7 +126,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Nadezhda Bondarenko"
+	name = "Oleg Khorzhan"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = leninist
 }
