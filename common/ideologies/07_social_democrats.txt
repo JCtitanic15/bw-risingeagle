@@ -13,6 +13,9 @@ ideologies = {
 			social_democracy ={
 			}
 
+			liberal_socialism = {
+			}
+
 		}
 		
 		dynamic_faction_names = {
