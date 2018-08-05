@@ -1,2 +1,3 @@
 USA = "countries/United States.txt"
 TUR = "countries/Turkey.txt"
+MOL = "countries/Moldova.txt"
