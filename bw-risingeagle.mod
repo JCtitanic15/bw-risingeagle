@@ -1,5 +1,5 @@
 ﻿name="Blue World: The Rising Eagle"
-path="mod/bw-risingeagle"
+path="mod/bw-risingeagle/"
 tags={
 	"Alternative History"
 	"Map"
