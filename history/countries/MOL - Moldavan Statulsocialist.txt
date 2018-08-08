@@ -68,66 +68,66 @@ set_politics = {
 	}
 	
 	ruling_party = communist
-	last_election = "2004.1.1"
+	last_election = "2006.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }	
 
 create_country_leader = {
 	name = "Tudor Ionescu"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Tudor_Ionescu.tga"
 	ideology = national_bolshevik
 }
 
 create_country_leader = {
 	name = "Mircea Druc"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Mircea_Druc.tga"
 	ideology = authoritarian_democracy
 
 create_country_leader = {
 	name = "Daniel I"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Daniel_Ghica.tga"
 	ideology = absolute_monarchist
 }
 
 create_country_leader = {
 	name = "Iurie Leancă"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Iurie_Leancă.tga"
 	ideology = fiscal_conservative 
 }
 
 create_country_leader = {
 	name = "Mihai Ghimpu"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Mihai_Ghimpu.tga"
 	ideology = market_liberal
 }
 
 create_country_leader = {
 	name = "Igor Grosu"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Igor_Grosu.tga"
 	ideology = social_liberal
 }
 
 create_country_leader = {
 	name = "Marian Lupu"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Marian_Lupu.tga"
 	ideology = liberal_socialism
 
 create_country_leader = {
 	name = "Igor Dodon"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Igor_Dodon.tga"
 	ideology = democratic_socialist
 }
 
 create_country_leader = {
 	name = "Vladimir Voronin"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Vladimir_Voronin.tga"
 	ideology = communalism
 }
 
 create_country_leader = {
 	name = "Oleg Khorzhan"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	picture = "Portrait_MOL_Oleg_Khorzhan.tga"
 	ideology = leninist
 }
 

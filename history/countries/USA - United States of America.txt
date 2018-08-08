@@ -1,4 +1,4 @@
-﻿capital = 230
+﻿capital = 361
 
 oob = "generic_2000"
 
@@ -33,25 +33,25 @@ set_politics = {
 			popularity = 0
 		}
 		monarchist = {
-			popularity = 0
+			popularity = 2
 		}
 		nationalist = {
-			popularity = 32
+			popularity = 13
 		}
 		national_conservative = {
-			popularity = 20
+			popularity = 27
 		}
 		centrist = {
 			popularity = 12
 		}
 		liberal = {
-			popularity = 20
+			popularity = 25
 		}
 		social_democrat = {
-			popularity = 4
+			popularity = 17
 		}
 		democratic_socialist = {
-			popularity = 10
+			popularity = 2
 		}
 		libertarian_socialist = {
 			popularity = 2
