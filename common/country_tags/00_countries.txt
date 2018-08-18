@@ -1,4 +1,5 @@
-﻿USA = "countries/United States.txt"
-TUR = "countries/Turkey.txt"
+﻿GRE = "countries/Greece.txt"
 MOL = "countries/Moldova.txt"
 RUS = "countries/Russia.txt"
+TUR = "countries/Turkey.txt"
+USA = "countries/United States.txt"

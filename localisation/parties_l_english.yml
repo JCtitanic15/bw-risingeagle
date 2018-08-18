@@ -75,3 +75,15 @@
  ROM_democratic_socialist_party:0 "XXX"
  ROM_libertarian_socialist_party:0 "XXX"
  ROM_communist_party:0 "XXX"
+
+ GRE_ultranationalist_party:0 "Golden Dawn"
+ GRE_monarchist_party:0 "House of Glucksburg"
+ GRE_nationalist_party:0 "Enosis League"
+ GRE_national_conservative_party:0 "Conservative Unity Front"
+ GRE_centrist_party:0 "New Democracy"
+ GRE_liberal_party:0 "Liberal Left"
+ GRE_social_democrat_party:0 "PASOK"
+ GRE_democratic_socialist_party:0 "Popular Left Coalition (Moderates)"
+ GRE_libertarian_socialist_party:0 "Popular Left Coalition (Radicals)"
+ GRE_communist_party:0 "Communist Party of Greece"
+ 
