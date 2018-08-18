@@ -1,13 +1,11 @@
-﻿capital = 49
+﻿capital = 219
 
-oob = "TUR_2000"
+oob = "generic_2000"
 
 set_research_slots = 4
 set_convoys = 500
-set_stability = 0.8
-set_war_support = 0.5
-
-set_country_flag = muslim_nation
+set_stability = 0.5
+set_war_support = 0.4
 
 set_technology = {
 	support_weapons = 1
@@ -28,6 +26,11 @@ set_technology = {
 	paratroopers = 1 
 	marines = 1
 	early_destroyer = 1 
+	early_carrier = 1 
+	basic_heavy_tank = 1 
+	atomic_research = 1 
+	nuclear_reactor = 1 
+	nukes = 1
 	interwar_antiair = 1
 	interwar_antitank = 1
 }
@@ -71,45 +74,45 @@ set_politics = {
 	last_election = "1997.1.1"
 	election_frequency = 48
 	elections_allowed = no
-}	
-
-create_country_leader = {
-	name = "Mesut Yılmaz"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = market_liberal
 }
 
 create_country_leader = {
-	name = "Devlet Bahceli"
+	name = "Dimitry Medvedev "
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = fascist
+	ideology = centrist_populist
 }
 
 create_country_leader = {
-	name = "Necmettin Erbakan"
+	name = "Aleksandr Dugin"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = religious_traditionalist
+	ideology = national_bolshevik
+}
 
 create_country_leader = {
-	name = "Bayezid III"
+	name = "Vladimir Zhirinovsky"
+	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
+	ideology = nationalist_ideology
+
+create_country_leader = {
+	name = "Maria I"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = absolute_monarchist
 }
 
 create_country_leader = {
-	name = "Meral Akşener"
+	name = "Alexander Lebed"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = reactionary 
 }
 
 create_country_leader = {
-	name = "Deniz Baykal"
+	name = "Boris Nemtsov"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = social_liberal
 }
 
 create_country_leader = {
-	name = "Rahşan Ecevit"
+	name = "Mikhail Lapshin"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = social_democracy
 
@@ -120,14 +123,14 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Alper Taş"
+	name = "Boris Kagarlitsky"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
 	ideology = communalism
 }
 
 create_country_leader = {
-	name = "Kemal Okuyan"
-	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = leninist
+	name = "Vladimir Putin"
+	picture = "Portrait_FER_Vladimir_Putin.dds"
+	ideology = stalinist
 }
 

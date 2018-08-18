@@ -14,3 +14,8 @@ USA = {
 	color = rgb { 56 115 233 }
 	color_ui = rgb { 115 115 115 }
 }
+
+RUS = {
+	color = rgb { 73 95 239 }
+	color_ui = rgb { 115 115 115 }
+}
