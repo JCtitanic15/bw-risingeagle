@@ -19,6 +19,8 @@
 			religious_traditionalist = {
 			}
 
+            environmental_nationalism = {
+			}
 		}
 		
 		dynamic_faction_names = {

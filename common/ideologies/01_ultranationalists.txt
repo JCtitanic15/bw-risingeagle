@@ -21,6 +21,28 @@
 
 			religious_fanaticism = {	
 			}
+
+			national_capitalism = {	
+			}
+			
+			strasserism = {	
+			} 
+
+			national_syndicalism = {	
+			}
+
+			eurasianism = {	
+			}
+
+			clerical_fascism = {	
+			}
+
+			imperialism = {	
+			}
+
+			integralism = {	
+			}
+
 			
 		}
 		

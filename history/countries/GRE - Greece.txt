@@ -1,6 +1,6 @@
 ﻿capital = 47
 
-oob = "generic_2000"
+oob = "GRE_2000"
 
 set_research_slots = 4
 set_convoys = 500
@@ -86,25 +86,25 @@ create_country_leader = {
 create_country_leader = {
 	name = "Manos Konstas"
 	picture = "Portrait_GRE_Liana_Kanelli.dds"
-	ideology = ultranationalist
+	ideology = nationalist_ideology
 }
 
 create_country_leader = {
 	name = "Constantine II"
 	picture = "Portrait_GRE_Constantine_Second.dds"
-	ideology = absolute_monarchist
+	ideology = parliamentary_consitutional_monarchy 
 }
 
 create_country_leader = {
 	name = "Panos Kammenos"
 	picture = "Portrait_GRE_Panos_Kammenos.dds"
-	ideology = christian_democracy
+	ideology = reactionary
 }
 
 create_country_leader = {
 	name = "Kostas Karamanlis"
 	picture = "Portrait_GRE_Vasilis_Leventis.dds"
-	ideology = centrist_ideology
+	ideology = market_liberal
 }
 
 create_country_leader = {
@@ -116,18 +116,18 @@ create_country_leader = {
 create_country_leader = {
 	name = "George Papandreou"
 	picture = "Portrait_GRE_George_Papandreou.dds"
-	ideology = social_democracy 
+	ideology = progressive 
 }
 
 create_country_leader = {
 	name = "Yanis Varoufakis"
 	picture = "Portrait_GRE_Alexis_Tsipras.dds"
-	ideology = european_moderate_socialist 
+	ideology = democratic_socialist 
 }
 
 create_country_leader = {
 	name = "Alekos Alavanos"
 	picture = "Portrait_GRE_Liana_Kanelli.dds"
-	ideology = anarcho_syndicalism 
+	ideology = anarcho_communism 
 }
 

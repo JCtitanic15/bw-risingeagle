@@ -1,13 +1,10 @@
-﻿ideologies = {
+ideologies = {
 
 	libertarian_socialist = {
 		
 		types = {
 		
 			luxemburgism = {
-			}
-			
-			gatesism = {
 			}
 			
 			syndicalism = {
@@ -36,6 +33,20 @@
 
 			communalism = {
 			}
+
+			anarcho_communism = {
+			}
+
+			democratic_confederalism = {
+			}
+
+			makhnoism = {
+			}
+
+			corbynism = {
+			}
+
+			
 			
 		}
 		

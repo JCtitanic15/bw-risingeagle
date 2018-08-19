@@ -29,3 +29,8 @@ FRA = {
 	color = rgb { 41 30 114 }
 	color_ui = rgb { 115 115 115 }
 }
+
+ENG = {
+	color = rgb { 206 70 70 }
+	color_ui = rgb { 115 115 115 }
+}

@@ -1,13 +1,11 @@
-﻿capital = 16
+﻿capital = 126
 
-oob = "FRA_2000"
+oob = "ENG_2000"
 
 set_research_slots = 4
 set_convoys = 1000
-set_stability = 0.3
-set_war_support = 0.1
-
-set_country_flag = catholic_nation
+set_stability = 0.8
+set_war_support = 0.2
 
 set_technology = {
 	support_weapons = 1
@@ -37,103 +35,106 @@ set_technology = {
 	interwar_antitank = 1
 }
 
+
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 4
+			popularity = 0
 		}
 		nationalist = {
-			popularity = 10
+			popularity = 4
 		}
 		monarchist = {
 			popularity = 2
 		}
 		national_conservative = {
-			popularity = 25
+			popularity = 27
 		}
 		centrist = {
-			popularity = 4
+			popularity = 5
 		}
 		liberal = {
-			popularity = 29
+			popularity = 10
 		}
 		social_democrat = {
-			popularity = 10
+			popularity = 34
 		}
 		democratic_socialist = {
-			popularity = 10
+			popularity = 5
 		}
 		libertarian_socialist = {
-			popularity = 7
+			popularity = 10
 		}
 		communist = {
 			popularity = 3
 		}
 	}
 	
-	ruling_party = liberal
+	ruling_party = social_democrat
 	last_election = "1997.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Francois Hollande"
-	picture = "Portrait_FRA_Jean_Luc_Melenchon.dds"
-	ideology = leninist
+	name = "Anne Marie Waters"
+	picture = "Portrait_ENG_David_Owen.dds"
+	ideology = social_democrat
 }
 
 create_country_leader = {
-	name = "Hervé Novelli"
-	picture = "Portrait_FRA_Alain_Soral.dds"
+	name = "Sean Matgamna"
+	picture = "Portrait_ENG_Robert_Griffiths.dds"
+	ideology = marxist
+}
+
+create_country_leader = {
+	name = "Kevin Bryan"
+	picture = "Portrait_ENG_Paul_Golding.dds"
 	ideology = fascist
 }
 
 create_country_leader = {
-	name = "Marine Le Pen"
-	picture = "Portrait_FRA_Marine_Le_Pen.dds"
+	name = "Nigel Farage"
+	picture = "Portrait_ENG_Nick_Griffin.dds"
 	ideology = nationalist_ideology
 }
 
 create_country_leader = {
-	name = "Henry VII"
-	picture = "Portrait_FRA_Henery_Seventh.dds"
+	name = "Elizabeth II"
+	picture = "Portrait_ENG_Elizabeth_Second.dds"
 	ideology = absolute_monarchist
 }
 
 create_country_leader = {
-	name = "Nicolas Dupont-Aignan"
-	picture = "Portrait_FRA_Alan_Juppe.dds"
+	name = "Jacob Rees Mogg"
+	picture = "Portrait_ENG_Owen_Paterson.dds"
 	ideology = european_conservative
 }
 
 create_country_leader = {
-	name = "Emmanuel Macron"
-	picture = "Portrait_FRA_Emmanuel_Macron.dds"
+	name = "Steven Agnew"
+	picture = "Portrait_ENG_Nick_Clegg.dds"
 	ideology = centrist_ideology
 }
 
 create_country_leader = {
-	name = "Francois Bayrou"
-	picture = "Portrait_FRA_Francois_Bayrou.dds"
+	name = "David Owen"
+	picture = "Portrait_ENG_Tony_Benn.dds"
 	ideology = social_liberal
 }
 
 create_country_leader = {
-	name = "Martine Delors"
-	picture = "Portrait_FRA_Eric_Coquerel.dds"
-	ideology = social_democracy
+	name = "Jeremy Corbyn"
+	picture = "Portrait_ENG_Jeremy_Corbyn.dds"
+	ideology = corbynism
 }
 
 create_country_leader = {
-	name = "Jean-Luc Mélenchon"
-	picture = "Portrait_FRA_Eric_Coquerel.dds"
+	name = "Tom Watson"
+	picture = "Portrait_ENG_George_Galloway.dds"
 	ideology = democratic_socialist
 }
+	
 
-create_country_leader = {
-	name = "Jean-Marc Ayrault"
-	picture = "Portrait_FRA_Charles_Fiterman.dds"
-	ideology = revolutionary_socialist_ideology
-}

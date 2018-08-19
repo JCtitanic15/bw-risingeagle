@@ -85,7 +85,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Aleksandr Dugin"
 	picture = "Portrait_TUR_Mesut_Yılmaz.dds"
-	ideology = national_bolshevik
+	ideology = eurasianist
 }
 
 create_country_leader = {
