@@ -87,3 +87,13 @@
  GRE_libertarian_socialist_party:0 "Popular Left Coalition (Radicals)"
  GRE_communist_party:0 "Communist Party of Greece"
  
+ FRA_ultranationalist_party:0 "Party of New Forces"
+ FRA_monarchist_party:0 "House of Orleans"
+ FRA_nationalist_party:0 "Resistance Party"
+ FRA_national_conservative_party:0 "Union for the Defence of the Republic"
+ FRA_centrist_party:0 "Progressive Rally"
+ FRA_liberal_party:0 "Liberal Democratic Party"
+ FRA_social_democrat_party:0 "Socialist Party (Moderates)"
+ FRA_democratic_socialist_party:0 "Communist Party (Reformists)"
+ FRA_libertarian_socialist_party:0 "Socialist Party (Revolutionaries)"
+ FRA_communist_party:0 "Communist Party (Old Guard)"

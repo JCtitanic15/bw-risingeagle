@@ -19,3 +19,13 @@ RUS = {
 	color = rgb { 73 95 239 }
 	color_ui = rgb { 115 115 115 }
 }
+
+GRE = {
+	color = rgb { 14 139 212 }
+	color_ui = rgb { 115 115 115 }
+}
+
+FRA = {
+	color = rgb { 41 30 114 }
+	color_ui = rgb { 115 115 115 }
+}
