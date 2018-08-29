@@ -1,11 +1,11 @@
-﻿capital = 126
+﻿capital = 282
 
-oob = "ENG_2000"
+oob = "JAP_2000"
 
 set_research_slots = 4
-set_convoys = 1000
+set_convoys = 500
 set_stability = 0.8
-set_war_support = 0.2
+set_war_support = 0.4
 
 set_technology = {
 	support_weapons = 1
@@ -27,114 +27,109 @@ set_technology = {
 	marines = 1
 	early_destroyer = 1 
 	early_carrier = 1 
-	basic_heavy_tank = 1 
 	atomic_research = 1 
 	nuclear_reactor = 1 
-	nukes = 1
 	interwar_antiair = 1
 	interwar_antitank = 1
 }
-
 
 set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
+			popularity = 61
 		}
 		nationalist = {
-			popularity = 4
+			popularity = 13
 		}
 		monarchist = {
-			popularity = 2
+			popularity = 9
 		}
 		national_conservative = {
-			popularity = 27
+			popularity = 6
 		}
 		centrist = {
-			popularity = 5
+			popularity = 0
 		}
 		liberal = {
-			popularity = 10
+			popularity = 3
 		}
 		social_democrat = {
-			popularity = 34
+			popularity = 2
 		}
 		democratic_socialist = {
-			popularity = 5
+			popularity = 2
 		}
 		libertarian_socialist = {
-			popularity = 10
+			popularity = 4
 		}
 		communist = {
-			popularity = 3
+			popularity = 0
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = ultranationalist
 	last_election = "1997.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Anne Marie Waters"
-	picture = "Portrait_ENG_David_Owen.dds"
-	ideology = social_democracy
+	name = "Makoto Takata"
+	picture = "Portrait_JAP_Toshio_Tamogami.dds"
+	ideology = imperialism
 }
 
 create_country_leader = {
-	name = "Sean Matgamna"
-	picture = "Portrait_ENG_Robert_Griffiths.dds"
+	name = "Kazuo Shii"
+	picture = "Portrait_JAP_Kazuo_Shii.dds"
 	ideology = marxist
 }
 
 create_country_leader = {
-	name = "Kevin Bryan"
-	picture = "Portrait_ENG_Paul_Golding.dds"
-	ideology = fascist
+	name = "Tarō Asō"
+	picture = "Portrait_JAP_Shintaro_Ishihara.dds"
+	ideology = reactionary
 }
 
 create_country_leader = {
-	name = "Nigel Farage"
-	picture = "Portrait_ENG_Nick_Griffin.dds"
+	name = "Shinzo Abe"
+	picture = "Portrait_JAP_Shinzo_Abe.dds"
 	ideology = nationalist_ideology
 }
 
 create_country_leader = {
-	name = "Elizabeth II"
-	picture = "Portrait_ENG_Elizabeth_Second.dds"
+	name = "Akihito"
+	picture = "Portrait_JAP_Akihito.dds"
 	ideology = absolute_monarchist
 }
 
 create_country_leader = {
-	name = "Jacob Rees Mogg"
-	picture = "Portrait_ENG_Owen_Paterson.dds"
-	ideology = european_conservative
-}
-
-create_country_leader = {
-	name = "Steven Agnew"
-	picture = "Portrait_ENG_Nick_Clegg.dds"
+	name = "Yukio Edano"
+	picture = "Portrait_JAP_Yorihisa_Matsuno.dds"
 	ideology = centrist_ideology
 }
 
 create_country_leader = {
-	name = "David Owen"
-	picture = "Portrait_ENG_Tony_Benn.dds"
+	name = "Yoshihiko Noda"
+	picture = "Portrait_JAP_Banri_Kaieda.dds"
 	ideology = social_liberal
 }
 
 create_country_leader = {
-	name = "Jeremy Corbyn"
-	picture = "Portrait_ENG_Jeremy_Corbyn.dds"
-	ideology = corbynism
+	name = "Tadatomo Yoshida"
+	picture = "Portrait_JAP_Yuko_Mori.dds"
+	ideology = social_democracy
 }
 
 create_country_leader = {
-	name = "Tom Watson"
-	picture = "Portrait_ENG_George_Galloway.dds"
+	name = "Kuniko Tanioka"
+	picture = "Portrait_JAP_Tadatomo_Yoshida.dds"
 	ideology = democratic_socialist
 }
-	
 
+create_country_leader = {
+	name = "Hiromi Okazaki"
+	picture = "Portrait_JAP_Masaaki_Osaka.dds"
+	ideology = luxemburgism
+}

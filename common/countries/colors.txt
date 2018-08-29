@@ -34,3 +34,8 @@ ENG = {
 	color = rgb { 206 70 70 }
 	color_ui = rgb { 115 115 115 }
 }
+
+JAP = {
+	color = rgb { 255 212 205 }
+	color_ui = rgb { 115 115 115 }
+}
