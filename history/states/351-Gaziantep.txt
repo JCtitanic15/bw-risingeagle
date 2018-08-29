@@ -2,14 +2,18 @@
 state={
 	id=351
 	name="STATE_351" # Vologda
-	manpower = 2352100
+	manpower = 2452100
 	
-	state_category = town
+	state_category = state_level_2
+	
+	resources = {
+		steel = 1
+	}
 
 	history={
 		owner = SOV
 		buildings = {
-			infrastructure = 3
+			infrastructure = 1
 		}
 		add_core_of = SOV
 	}

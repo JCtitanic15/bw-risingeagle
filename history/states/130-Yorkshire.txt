@@ -2,38 +2,31 @@
 state={
 	id=130
 	name="STATE_130"
-	manpower = 4762495
+	manpower = 5562495
 	
-	state_category = metropolis
+	state_category = state_level_12
 	
 	resources={
-		steel=71 # was: 120
+		oil=9
 	}
 
 	history={
 		owner = ENG
-		victory_points = {
-			9379 15 
-		}
-		victory_points = {
-			11297 10 
-		}
+		victory_points = { 9379 15 }		#Leeds
+		victory_points = { 11297 10 }		#Hull
+		victory_points = { 9269 5 }			#York
+		victory_points = { 9315 5 }			#Sheffield
+		victory_points = { 11382 3 }		#Doncaster
 		buildings = {
 			infrastructure = 7
-			arms_factory = 2
 			industrial_complex = 3
+			arms_factory = 1
 			air_base = 10
 			11297 = {
 				naval_base = 5
 			}
 		}
 		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				industrial_complex = 4
-			}
-		}
 	}
 
 	provinces={

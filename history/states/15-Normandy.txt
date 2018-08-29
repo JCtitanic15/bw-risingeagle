@@ -2,27 +2,23 @@
 state={
 	id=15
 	name="STATE_15"
-	manpower = 2332100
-	resources={
-		steel=21 # was: 36
-	}
+	manpower = 3222100
 	
-	state_category = city
+	state_category = state_level_10
+	
+	resources = {
+		steel = 10
+	}
 
 	history={
 		owner = FRA
-		victory_points = {
-			9434 5
-		}
-		victory_points = {
-			6449 15
-		}
-		victory_points = {
-			11563 5
-		}
+		victory_points = { 9434 5 }
+		victory_points = { 6449 5 }
+		victory_points = { 11563 5 }
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 2
+			industrial_complex = 1
+			dockyard = 1
 			air_base = 6
 			6449 = {
 				naval_base = 5

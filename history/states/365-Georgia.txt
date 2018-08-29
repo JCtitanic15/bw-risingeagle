@@ -2,31 +2,28 @@
 state={
 	id=365
 	name="STATE_365"
-	manpower = 2908504
+	manpower = 8227000
 	
-	state_category = city
+	state_category = state_level_10
 
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 3
-			air_base = 2
+			air_base = 7
+			industrial_complex = 6
+			arms_factory = 1
+			dockyard = 1
+			rubber_factory = 1
 			11975 = {
 				naval_base = 1
 			}
 		}
 		add_core_of = USA
-		victory_points = {
-			12384 10 
-		}
-
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
-		}
-
+		add_core_of = CSA
+		victory_points = { 12384 20 }	#Atlanta
+		victory_points = { 7118 5 }		#Augusta
+		victory_points = { 7583 5 }		#Columbus
 	}
 
 	provinces={

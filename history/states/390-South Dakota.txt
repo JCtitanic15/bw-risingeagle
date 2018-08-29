@@ -2,20 +2,23 @@
 state={
 	id=390
 	name="STATE_390"
-	manpower = 692849
-	state_category = rural
+	manpower = 755844
+	state_category = state_level_4
+	
+	resources = {
+		steel = 5
+	}
 
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 4
+			air_base = 5
 			industrial_complex = 1
 		}
 		add_core_of = USA
-		victory_points = {
-			1747 1 
-		}
-
+		victory_points = { 1747 3 }		#Rapid City
+		victory_points = { 12667 3 }	#Sioux Falls
 	}
 
 	provinces={

@@ -2,14 +2,16 @@
 state={
 	id=396
 	name="STATE_396"
-	manpower = 3238501
-	state_category = large_city
+	manpower = 6092000
+	state_category = state_level_8
 
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 5
+			air_base = 4
+			industrial_complex = 4
+			arms_factory = 1
 		}
 		add_core_of = USA
 		victory_points = {

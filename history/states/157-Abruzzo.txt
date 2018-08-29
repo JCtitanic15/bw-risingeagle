@@ -2,9 +2,13 @@
 state={
 	id=157
 	name="STATE_157"
-	manpower = 2979335
+	manpower = 3679335
 	
-	state_category = city
+	state_category = state_level_8
+	
+	resources = {
+		oil = 2
+	}
 
 	history={
 		owner = ITA
@@ -13,7 +17,8 @@ state={
 		}
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 1
+			industrial_complex = 2
+			dockyard = 1
 			925 = {
 				naval_base = 4
 			}

@@ -2,20 +2,18 @@
 state={
 	id=347
 	name="STATE_347"
-	manpower = 807660
-	resources={
-		chromium=19 # was: 26
-	}
+	manpower = 2807660
 	
-	state_category = rural
+	state_category = state_level_5
 
 	history={
 		owner = TUR
-		victory_points = {
-			890 1 
-		}
+		victory_points = { 3905 1 }
+		victory_points = { 11811 3 }
+		victory_points = { 904 3 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
+			industrial_complex = 2
 			904 = {
 				naval_base = 2
 			}

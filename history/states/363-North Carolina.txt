@@ -2,21 +2,28 @@
 state={
 	id=363
 	name="STATE_363"
-	manpower = 3170274
+	manpower = 8082000
 	
-	state_category = city
+	state_category = state_level_12
+	
+	resources = {
+		steel = 11
+	}
 
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 6
-			industrial_complex = 3
+			infrastructure = 8
 			air_base = 3
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 1
 			1132 = {
 				naval_base = 1
 			}
 		}
 		add_core_of = USA
+		add_core_of = CSA
 		victory_points = {
 			7138 3 
 		}

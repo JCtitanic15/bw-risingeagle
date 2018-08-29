@@ -2,24 +2,27 @@
 state={
 	id=344
 	name="STATE_344"
-	manpower = 727198
+	manpower = 2627198
 	
-	state_category = town
+	resources = {
+		chromium=265
+		oil=1
+	}
+	
+	state_category = state_level_8
 
 	history={
 		owner = TUR
-		victory_points = {
-			9893 3 
-		}
-		victory_points = {
-			11746 1 
-		}
+		victory_points = { 9893 15 }
+		victory_points = { 11746 20 }
+		victory_points = { 6813 3 }
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			11746 = {
 				naval_base = 3
 			}
+			air_base = 5
 		}
 		add_core_of = TUR
 	}

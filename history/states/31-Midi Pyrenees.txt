@@ -2,19 +2,23 @@
 state={
 	id=31
 	name="STATE_31"
-	manpower = 1825000
+	manpower = 4775000
 	
-	state_category = city
+	state_category = state_level_10
+	
+	resources = {
+		steel = 5
+	}
 
 	history={
 		owner = FRA
 		victory_points = {
-			6766 5 
+			6766 20
 		}
 		buildings = {
 			infrastructure = 6
-			arms_factory = 1
-			industrial_complex = 1
+			industrial_complex = 3
+			dockyard = 1
 			air_base = 2
 
 		}

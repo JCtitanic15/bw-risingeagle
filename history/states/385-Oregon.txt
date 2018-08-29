@@ -2,25 +2,34 @@
 state={
 	id=385
 	name="STATE_385"
-	manpower = 953785
+	manpower = 3430000
 	
-	state_category = town
+	state_category = state_level_7
+	
+	resources = {
+		oil=5
+		steel = 13
+	}
 
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 1
+			industrial_complex = 4
+			dockyard = 2
 			air_base = 6
-			12211 = {
+			4380 = {
 				naval_base = 3
 			}
 		}
 		add_core_of = USA
-		victory_points = {
-			3513 1 
-		}
-
+		#add_core_of = CAS
+		victory_points = { 3513 20 }	#Portland
+		victory_points = { 4328 5 }		#Salem
+		victory_points = { 4380 4 }		#Eugene
+		victory_points = { 12211 2 }	#Hillsboro
+		victory_points = { 1414 1 }		#Bend
+		victory_points = { 3471 1 }		#Medford
 	}
 
 	provinces={

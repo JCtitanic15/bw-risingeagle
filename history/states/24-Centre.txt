@@ -2,10 +2,13 @@
 state={
 	id=24
 	name="STATE_24"
-	manpower = 1546300
+	manpower = 2446300
 	
+	resources = {
+		steel = 21
+	}
 	
-	state_category = large_town
+	state_category = state_level_8
 
 	history={
 		owner = FRA
@@ -17,15 +20,10 @@ state={
 		}
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 2
+			industrial_complex = 4
 
 		}
 		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
-		}
 	}
 
 	provinces={

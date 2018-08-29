@@ -3,12 +3,11 @@ state= {
 	name="STATE_120"
 	manpower = 265873
 	
-	state_category = rural
+	state_category = state_level_5
 
 	resources={
-		chromium=1 # was: 2
-		tungsten=16 # was: 22
-		aluminium=9 # was: 12
+		aluminium=2
+		oil=29
 	}
 
 	history=
@@ -16,18 +15,18 @@ state= {
 		owner = ENG
 		victory_points = { 11064 1 }
 		buildings = {
-			infrastructure = 4
-			anti_air_building = 2
-			industrial_complex = 1
+			infrastructure = 3
 			air_base = 1
+			industrial_complex = 1
 			11064 = {
-				naval_base = 8	
+				naval_base = 7
 			}
 			6196 = {
-				naval_base = 1	
+				naval_base = 2	
 			}
 		}
 		add_core_of = ENG
+		add_core_of = SCO
 	}
 
 	provinces=

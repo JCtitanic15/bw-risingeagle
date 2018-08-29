@@ -1,9 +1,9 @@
 
-supply_area={
+supply_area={	#Mazowsze
 	id=2
 	name="SUPPLYAREA_2"
 	value=17
 	states={
-		98 10 87 86 
+		10 98 97
 	}
 }

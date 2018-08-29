@@ -2,21 +2,16 @@
 state={
 	id=18
 	name="STATE_18"
-	manpower = 1370800
+	manpower = 1870800
 	
-	state_category = city
+	state_category = state_level_8
 
 	history={
 		owner = FRA
-		victory_points = {
-			9490 5 
-		}
-		victory_points = {
-			13011 5 
-		}
+		victory_points = { 9490 5 }
+		victory_points = { 13011 5 }
 		buildings = {
 			infrastructure = 7
-			industrial_complex = 1
 			air_base = 10
 		}
 		add_core_of = FRA

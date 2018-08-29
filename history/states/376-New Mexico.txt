@@ -2,23 +2,25 @@
 state={
 	id=376
 	name="STATE_376"
-	manpower = 423316
+	manpower = 2121000
 	
-	state_category = rural
+	state_category = state_level_8
 	
-	resources={
-		oil=14 # was: 20
-		aluminium=30 # was: 52
+	resources = {
+		steel = 5
 	}
-
 
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 1
+			infrastructure = 6
+			industrial_complex = 4
+			arms_factory = 2
+			air_base = 6
 		}
 		add_core_of = USA
+		victory_points = { 4975 20 }	#Albuquerque
+		victory_points = { 12791 2 }	#Las Cruces
 	}
 
 	provinces={

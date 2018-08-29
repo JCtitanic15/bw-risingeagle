@@ -1,8 +1,9 @@
+
 strategic_region={
 	id=106
 	name="STRATEGICREGION_106"
 	provinces={
-		2780 2331 2357 2479 2529 2553 2803 2828 2851 2889 2912 5262 5289 5578 5604 5630 5655 5680 5706 5732 5785 2652 2629 2603 2577 5114 5237
+		2331 2357 2454 2479 2505 2529 2553 2577 2603 2629 2780 2803 2828 2851 2889 2912 3643 3837 4717 4940 5114 5237 5262 5289 5578 5604 5630 5655 5680 5706 5732 5758 5785 
 	}
 	weather={
 		period={
@@ -14,7 +15,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -27,7 +28,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -40,7 +41,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -53,7 +54,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -66,7 +67,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -79,7 +80,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -92,7 +93,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -105,7 +106,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -118,7 +119,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -131,7 +132,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -144,7 +145,7 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}
@@ -157,7 +158,20 @@ strategic_region={
 			rain_heavy=0.300
 			snow=0.000
 			blizzard=0.000
-			mud=1.0
+			mud=1.000
+			sandstorm=0.000
+			min_snow_level=0.000
+		}
+		period={
+			between={ 4.11 21.11 }
+			temperature={ -10.0 35.0 }
+			temperature_day_night={ 2.0 -2.0 }
+			no_phenomenon=1.500
+			rain_light=0.250
+			rain_heavy=0.100
+			snow=0.000
+			blizzard=0.000
+			mud=0.000
 			sandstorm=0.000
 			min_snow_level=0.000
 		}

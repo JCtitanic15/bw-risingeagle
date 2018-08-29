@@ -4,25 +4,22 @@ state={
 	name="STATE_186"
 	manpower=945000
 	
-	state_category = town
+	state_category = state_level_7
+	
+	resources = {
+		oil = 1
+	}
 
 	history={
 		owner = GRE
-		buildings = {
-			infrastructure = 5
-			arms_factory = 1
-			industrial_complex = 1
-			11965 = {
-				naval_base = 1
-
-			}
-			4193 = {
-				naval_base = 2
-
-			}
-
-		}
 		add_core_of = GRE
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 1
+			11965 = { naval_base = 1 }
+			4193 = { naval_base = 2 }
+		}
 
 	}
 

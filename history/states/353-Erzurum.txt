@@ -2,8 +2,12 @@
 state={
 	id=353
 	name="STATE_353"
-	manpower = 523537
-	state_category = rural
+	manpower = 1423537
+	state_category = state_level_2
+	
+	resources = {
+		steel = 22
+	}
 
 	history={
 		owner = TUR
@@ -11,6 +15,10 @@ state={
 			infrastructure = 3
 		}
 		add_core_of = TUR
+		add_core_of = KUR
+		victory_points = { 11853 3 }
+		victory_points = { 4583 1 }
+		victory_points = { 3714 1 }
 	}
 
 	provinces={

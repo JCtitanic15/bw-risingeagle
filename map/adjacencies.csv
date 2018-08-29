@@ -131,4 +131,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
 2455;2506;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
 5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
+12860;7455;impassable;-1;-1;-1;-1;-1;;Bhutan-India Border
+12860;12730;impassable;-1;-1;-1;-1;-1;;Bhutan-India Border
+5083;10792;impassable;-1;-1;-1;-1;-1;;Brazil-Colombia Border
+4980;4934;impassable;-1;-1;-1;-1;-1;;Brazil-France Border
+5008;8107;impassable;-1;-1;-1;-1;-1;;Brazil-Guyana Border
+5214;8107;impassable;-1;-1;-1;-1;-1;;Brazil-Guyana Border
 -1;-1;;-1;-1;-1;-1;-1;-1

@@ -2,17 +2,28 @@
 state={
 	id=350
 	name="STATE_350"
-	manpower = 1047156
+	manpower = 2447156
 	
-	state_category = rural
+	state_category = state_level_5
+	
+	resources = {
+		chromium = 15
+		oil=2
+		steel = 5
+	}
 
 	history={
 		owner = TUR
 		buildings = {
 			infrastructure = 3
-			air_base = 2
+			air_base = 4
 		}
 		add_core_of = TUR
+		add_core_of = KUR
+		victory_points = { 11759 10 }
+		victory_points = { 9823 3 }
+		victory_points = { 7620 3 }
+		victory_points = { 4512 3 }
 	}
 
 	provinces={
