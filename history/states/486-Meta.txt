@@ -11,11 +11,12 @@ state={
 	}
 
 	history={
-		owner = COL
+		owner = SOU
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = COL
+		add_core_of = SOU
 	}
 
 	provinces={

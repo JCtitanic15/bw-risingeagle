@@ -10,7 +10,7 @@ state={
 	state_category = state_level_7
 
 	history={
-		owner = COL
+		owner = SOU
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 4
@@ -21,6 +21,7 @@ state={
 			8056 = { naval_base = 1 }
 		}
 		add_core_of = COL
+		add_core_of = SOU
 		victory_points = { 2023 1 }
 		victory_points = { 12790 5 }
 	}

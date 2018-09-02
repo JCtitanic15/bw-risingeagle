@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = BRA
+		owner = SOU
 		buildings = {
 			infrastructure = 6
 			air_base = 7
@@ -23,6 +23,7 @@ state={
 
 		}
 		add_core_of = BRA
+		add_core_of = SOU
 		victory_points = { 10980 20 }
 		victory_points = { 8148 5 }
 	}

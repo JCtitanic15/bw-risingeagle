@@ -43,6 +43,9 @@
 			integralism = {	
 			}
 
+			military_junta = {	
+			}
+
 			
 		}
 		

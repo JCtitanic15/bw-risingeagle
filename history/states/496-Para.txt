@@ -13,7 +13,7 @@ state={
 	}
 
 	history={
-		owner = BRA
+		owner = SOU
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -23,6 +23,7 @@ state={
 			}
 		}
 		add_core_of = BRA
+		add_core_of = SOU
 	}
 
 	provinces={

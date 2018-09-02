@@ -11,7 +11,7 @@ state={
 	}
 	
 	history={
-		owner = COL
+		owner = SOU
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 6
@@ -20,6 +20,7 @@ state={
 			air_base = 3
 		}
 		add_core_of = COL
+		add_core_of = SOU
 		victory_points = {
 			10747 10
 		}
