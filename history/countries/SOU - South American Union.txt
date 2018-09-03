@@ -38,38 +38,38 @@ set_politics = {
 
 	parties = {
 		ultranationalist = {
-			popularity = 0
-		}
-		nationalist = {
-			popularity = 10
-		}
-		monarchist = {
-			popularity = 5
-		}
-		national_conservative = {
-			popularity = 0
-		}
-		centrist = {
-			popularity = 6
-		}
-		liberal = {
 			popularity = 34
 		}
-		social_democrat = {
+		nationalist = {
 			popularity = 5
 		}
-		democratic_socialist = {
+		monarchist = {
 			popularity = 0
 		}
-		libertarian_socialist = {
+		national_conservative = {
+			popularity = 6
+		}
+		centrist = {
 			popularity = 10
 		}
+		liberal = {
+			popularity = 11
+		}
+		social_democrat = {
+			popularity = 7
+		}
+		democratic_socialist = {
+			popularity = 15
+		}
+		libertarian_socialist = {
+			popularity = 7
+		}
 		communist = {
-			popularity = 20
+			popularity = 5
 		}
 	}
 	
-	ruling_party = ultrnationalist
+	ruling_party = ultranationalist
 	last_election = "1997.1.1"
 	election_frequency = 48
 	elections_allowed = no
