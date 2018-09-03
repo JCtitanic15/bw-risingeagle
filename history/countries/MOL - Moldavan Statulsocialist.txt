@@ -128,6 +128,6 @@ create_country_leader = {
 create_country_leader = {
 	name = "Oleg Khorzhan"
 	picture = "Portrait_MOL_Oleg_Khorzhan.tga"
-	ideology = leninist
+	ideology = marxist
 }
 
