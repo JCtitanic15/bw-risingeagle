@@ -18,6 +18,9 @@
 
             environmental_nationalism = {
 			}
+
+			state_enforced_catholism = {
+			}
 		}
 		
 		dynamic_faction_names = {
