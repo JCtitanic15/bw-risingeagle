@@ -130,7 +130,7 @@ create_country_leader = {
 
 create_country_leader = {
 	name = "Vladimir Putin"
-	picture = "Portrait_FER_Vladimir_Putin.dds"
+	picture = "Portrait_RUS_Vladimir_Putin.dds"
 	ideology = stalinist
 }
 
